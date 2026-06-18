@@ -9,15 +9,6 @@ Liquidity pools bleed value to **mercenary liquidity**: capital that farms incen
 the moment a better yield appears. It inflates TVL on paper but leaves real LPs with thin depth,
 wider spreads, and the "cold‑start" problem on every new pool.
 
-Across the 556‑project UHI Hook Directory, *every* anti‑mercenary design uses a **carrot** —
-streaming rewards, epoch incentives, loyalty tiers. The dual is unoccupied:
-
-| Searched the 556‑project directory for | Hits |
-|---|---|
-| `"exit fee"` | **0** |
-| `"early withdraw"` | **0** |
-| `"withdrawal fee"` | 1 *(unrelated Harberger auction)* |
-| `"mercenary"` | 4 — **all reward‑based, none penalty‑based** |
 
 ## The solution
 
