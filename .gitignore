@@ -1,0 +1,18 @@
+# Foundry build artifacts
+cache/
+out/
+
+# Broadcast logs — keep real-network run-latest only; drop anvil, dry-runs, timestamped dupes
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+/broadcast/**/run-[0-9]*.json
+
+# Secrets & local env (keep the example template)
+.env
+.env.*
+!.env.example
+
+# OS / editor noise
+.DS_Store
+*.swp
