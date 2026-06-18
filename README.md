@@ -1,10 +1,6 @@
 # 🔒 Loyalty Lock — a Uniswap v4 Hook
 
 **A time-decaying exit fee that turns mercenary churn into yield for loyal LPs.**
-
-> Atrium Academy / Uniswap Hook Incubator — *Week 2: Build Your First Hook*
-> **Live on Ethereum Sepolia** · hook [`0x22ee…0501`](https://sepolia.etherscan.io/address/0x22ee81a8adEb1B64D19E00c812185C89371A0501) · verified end-to-end with real transactions ↓
-
 ---
 
 ## The problem
